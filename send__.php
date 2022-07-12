@@ -27,7 +27,7 @@ $i++;
 
 //Приходы денег
 //токен бота
-define('TELEGRAM_TOKEN', '11111111:AAH5UzaDjTWqWzZ534rn0ussfd-pkG4ssdsdfhn');
+define('TELEGRAM_TOKEN', ' ');
 
 // внутренний айдишник
 define('TELEGRAM_CHATID_ANDY', '1111111111');
