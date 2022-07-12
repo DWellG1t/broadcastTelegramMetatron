@@ -10,7 +10,7 @@ $file_skl='1c/Raschet.txt';
 $file_inv="files/invoice5.txt";
 $file_inv_b="files/invoice5b.txt";
 $date_t=date("Y-m-d");
-//$hp = file_get_contents("https://isdayoff.ru/$date_t");
+//$hp = file_get_contents(" ");
 $hp=work_day($date_t);
 if ($hp>0) {exit(0);}
 $date_y=date("Y");
